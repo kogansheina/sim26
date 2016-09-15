@@ -1,0 +1,4 @@
+-code0..\talbit\lilac_fw_0_fast.o
+-data0..\talbit\data_private_A
+-context0..\talbit\context_segment_A
+-common..\talbit\data_common
